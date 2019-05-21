@@ -1,17 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace AppWeb
+namespace Concepto
 {
     class Program
     {
         static void Main(string[] args)
         {
             int sum = 0;
-            int  sum2 = 0;
+            int sum2 = 0;
             for (int i = 0; i < 5; i++)
             {
 
@@ -42,3 +38,4 @@ namespace AppWeb
         }
     }
 }
+    
